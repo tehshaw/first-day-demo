@@ -1,0 +1,25 @@
+.section {
+    background-color: bisque;
+
+}
+
+.heading {
+    color: blue;
+}
+
+#picture {
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+
+#email{
+    background-color: burlywood;
+}
+
+#github{
+    background-color: lightblue;
+}
+
+#portfolio{
+    background-color: orangered;
+}
